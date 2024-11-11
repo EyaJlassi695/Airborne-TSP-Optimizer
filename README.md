@@ -48,6 +48,31 @@ julia main.jl --method MTZ --input data/sample_instance.json
 
 ## Results
 Results for MTZ and DFJ methods are compared, including solution time, branch-and-cut nodes, and relaxation values.
+To add the report to your GitHub project, you can include it in a `docs` folder and link to it from the README. Here’s how:
+
+1. **Create a `docs` Folder**:
+   Place the report PDF (e.g., `RO.pdf`) in a folder called `docs` at the root of your repository.
+
+2. **Link to the Report in the README**:
+   Add a section in your README to link directly to the PDF.
+
+Here’s how to update the README:
+
+---
+
+## Documentation
+For a detailed description of the problem, methodology, and results, please refer to the project report:
+- [Project Report (PDF)](Course_d'avion.pdf)
+
+---
+
+3. **Commit and Push**:
+   After placing the report in the `docs` folder, commit the changes:
+   ```bash
+   git add Course_d'avion.pdf README.md
+   git commit -m "Add project report and link in README"
+   git push origin main
+   ```
 
 ## Acknowledgments
 Guidance provided by Sourour Elloumi. Developed by Eya Jlassi and Mohamed Aziz Mhadbi for SOD321: Discrete Optimization at École Nationale Supérieure de Techniques Avancées.
