@@ -1,4 +1,4 @@
-# run.jl
+# main.jl
 include("MTZ.jl")  # Loads functions from MTZ.jl
 include("DFJ.jl")  # Load DFJ.jl if it also exists
 
