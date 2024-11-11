@@ -53,7 +53,8 @@ To add the report to your GitHub project, you can include it in a `docs` folder 
 
 ## Documentation
 For a detailed description of the problem, methodology, and results, please refer to the project report:
-- [Project Report (PDF)](Course_d'avion.pdf)
+[Project Report (PDF)](Course_davion.pdf)
+
 
 ## Acknowledgments
 Guidance provided by Sourour Elloumi. Developed by Eya Jlassi and Mohamed Aziz Mhadbi for SOD321: Discrete Optimization at École Nationale Supérieure de Techniques Avancées.
