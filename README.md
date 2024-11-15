@@ -48,7 +48,10 @@ julia main.jl --method MTZ --input data/sample_instance.json
 
 ## Results
 Results for MTZ and DFJ methods are compared, including solution time, branch-and-cut nodes, and relaxation values.
-To add the report to your GitHub project, you can include it in a `docs` folder and link to it from the README. Here’s how:
+
+![image](https://github.com/user-attachments/assets/fa02398e-97f8-4bad-84d5-8e6fdbd83d50)
+
+![image](https://github.com/user-attachments/assets/055f21c7-3e85-431c-8be1-93c3b4049847)
 
 
 ## Documentation
