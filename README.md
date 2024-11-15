@@ -47,9 +47,12 @@ julia main.jl --method MTZ --input data/sample_instance.json
 ```
 
 ## Results
-Results for MTZ and DFJ methods are compared, including solution time, branch-and-cut nodes, and relaxation values.
+Results for MTZ and DFJ methods are compared, including solution time, branch-and-cut nodes, and relaxation values.In addition to that, the shorted elemntary paths are drawn:
+Example1:
 
 ![image](https://github.com/user-attachments/assets/fa02398e-97f8-4bad-84d5-8e6fdbd83d50)
+
+Example 2:
 
 ![image](https://github.com/user-attachments/assets/055f21c7-3e85-431c-8be1-93c3b4049847)
 
